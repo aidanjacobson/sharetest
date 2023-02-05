@@ -6,7 +6,8 @@
         "action": "https://aidanjacobson.github.io/sharetest/recieve.html",
         "method": "GET",
         "params": {
-            "text": "text"
+            "text": "text",
+            "url": "url"
         }
     },
     "icons": [{
