@@ -5,6 +5,7 @@
     "share_target": {
         "action": "https://aidanjacobson.github.io/sharetest/recieve.html",
         "method": "GET",
+        "enctype": "multipart/form-data",
         "params": {
             "text": "text",
             "url": "url",
