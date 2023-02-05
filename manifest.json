@@ -12,7 +12,7 @@
             "title": "title",
             "files": {
                 "name": "files",
-                "accept": "application/octet-stream"
+                "accept": "image/*"
             }
         }
     },
