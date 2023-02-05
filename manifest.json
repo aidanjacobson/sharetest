@@ -7,7 +7,12 @@
         "method": "GET",
         "params": {
             "text": "text",
-            "url": "url"
+            "url": "url",
+            "title": "title",
+            "files": {
+                "name": "files",
+                "accept": "*"
+            }
         }
     },
     "icons": [{
