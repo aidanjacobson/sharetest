@@ -4,15 +4,9 @@
     "display": "standalone",
     "share_target": {
         "action": "https://aidanjacobson.github.io/sharetest/recieve.html",
-        "method": "POST",
-        "enctype": "multipart/form-data",
+        "method": "GET",
         "params": {
-            "files": [
-                {
-                    "name": "images",
-                    "accept": ["image/*", ".png", ".jpg", ".jpeg"]
-                }
-            ]
+            "text": "text"
         }
     },
     "icons": [{
